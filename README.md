@@ -1,4 +1,4 @@
-# CS330-Comp_Graphic_and_Visualization
+# CS330-Comp_Graphic_and_Visualization C++
 _Computer Graphics and Visualization_
 
 _**Course Description**_
